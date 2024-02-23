@@ -1,0 +1,26 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: "Playfair Display", serif;
+    font-size: 16px;
+    min-height: 100%;
+    color: black;
+}
+
+.comment-container {
+    width: min(90%, 1140px);
+    margin: 3rem auto;
+}
+
+.comment {
+    padding: 20px;
+    background-color: white;
+    border: 1px solid rgba(80, 38, 101, 0.3);
+    border-radius: 0.5rem;
+    min-width: 100%;
+    box-shadow: 0 0 50px rgba(80, 38, 101, 0.1);
+    margin-top: 10px;
+}
+
+  
